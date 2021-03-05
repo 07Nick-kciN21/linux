@@ -1,0 +1,19 @@
+cd
+change dirctory
+
+cd-
+cd~
+cd_
+
+dir 列出所有檔案
+
+dir | findstr ____ 搜尋關鍵字檔案
+    ^   
+    |
+   pipe
+
+yum upgrade
+
+su 
+
+super user

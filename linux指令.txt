@@ -14,6 +14,12 @@ dir | findstr ____ 搜尋關鍵字檔案
 
 yum upgrade
 
+0.0.0.0代表任意介面皆可
 su 
 
-super user
+sudo "指令"以超級使用者執行這個指令
+
+ls 顯示列表
+echo ""顯示字串到螢幕上
+
+echo "">hi.html把字串送到hi.html檔案

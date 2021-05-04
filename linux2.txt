@@ -1,0 +1,62 @@
+linux:
+	ifconfig 網卡名稱
+	router print
+	ip route show
+win:
+	ipconfig
+
+網卡名稱在不同系統下名字也不同
+
+
+NAT:network address translation
+當私人網路想連到外面時，進行ip轉換
+
+NAPT:             port
+
+NAT:
+可由內往外ping，不可由外往內
+
+VM 	 ---------> Internet
+Internet ----x----> VM
+
+
+Host only:
+	只做內部通訊用，實體機與虛擬機間通訊用
+	不能連到Internet
+
+clone:
+	Full clone:完全複製，吃Hard Disk空間
+	Linked clone: 使用原本的空間，
+
+
+Internal Network:
+	建置內部網路用，用於放置資料，不讓外部入侵
+
+bridge network:
+
+
+SSH連線
+	port:22
+客戶端
+telnet連線
+	port:23
+
+
+Ralink公司
+
+
+yum
+centos體系
+fedora體系
+centos體系
+
+
+host
+
+0.0.0.0任意介面，代表任意IP都可以連
+
+
+linux:
+open ssh server
+
+putty、xshell、WinSCP
